@@ -1,3 +1,5 @@
-# Code Along 1
+# Code Along 2
 
-This webpage ignores semantic HTML conventions and needs to be reqorked to improve use by screen readers. Use the semantic HTML elements you've learned from Chapter 12 to fix this "Div Soup".
+In this code-along, we are going to use CSS to add some basic styles to our "div soup" example using different types of selectors.
+
+The complete version of this will be added as a "complete" branch to this repository after class.
