@@ -8,3 +8,34 @@ img {
   transform: rotate(-90deg);
   padding: 1.5em;
 }
+footer{
+  font-size:0.75em;
+}
+
+.floorPlan{/*call this in index as needed*/
+  height: 300px;
+  width: 200px;
+  transform: rotate(-90deg)
+  padding: 1.5m;
+}
+h1,
+h2,
+h3
+{
+  color: #4b2e83;/* h1, h2, and h3 color*/
+}
+h2.aboutTitle{
+  font-style:italic;
+  font-weight: 200;
+}
+article p{
+  margin-left: 1rem;
+}
+/*
+ariticle> p{
+margin-left:0;
+}
+only apply to direct children*/
+p:hover{
+  color: #85754d;
+}
